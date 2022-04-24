@@ -5,7 +5,7 @@ An AJAX exercise done as a school assignment spring 2022
 - The user can choose a Finnkino theatre from a dropdown menu and dates for showtimes
 - Movies are added to a table with some information and links to follow
 - Seperate CSS and JS files
-- Published on [Netlify](url here)
+- Published on [Netlify](https://deluxe-truffle-a85176.netlify.app/)
 
 ## Technologies used
 
